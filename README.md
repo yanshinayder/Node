@@ -1,2 +1,2 @@
 # Node
-Projeto de criação de API 
+Projeto de criação de API utlizando Node e JavaScript. 
